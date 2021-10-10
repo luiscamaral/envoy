@@ -1,7 +1,7 @@
 package command
 
 import (
-	"github.com/BSick7/envoy/store"
+	"github.com/luiscamaral/envoy/store"
 	"os"
 	"strings"
 )
