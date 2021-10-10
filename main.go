@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/BSick7/envoy/command"
+	"github.com/luiscamaral/envoy/command"
 	"github.com/mitchellh/cli"
 	"log"
 	"os"
