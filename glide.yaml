@@ -1,4 +1,4 @@
-package: github.com/BSick7/envoy
+package: github.com/luiscamaral/envoy
 import:
 - package: github.com/hashicorp/consul
   version: 0.6.4
